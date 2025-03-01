@@ -71,7 +71,7 @@ Content-Type: application/json
 
 ### 🗒️ Обновить задачу
 ```http
-PUT /api/v1/tasks/{id}
+PATCH /api/v1/tasks/{id}
 ```
 
 ### ❌ Удалить задачу
