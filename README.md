@@ -43,7 +43,7 @@ sqlc generate
 
 ### 6️⃣ Запуск сервера
 ```sh
-go run main.go
+go build ; ./SkillsRock
 ```
 👉 Сервер запустится на `http://localhost:3000/api/v1/`
 
